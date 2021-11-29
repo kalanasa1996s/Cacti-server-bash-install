@@ -9,7 +9,8 @@
          git clone https://github.com/kalanasa1996s/Cacti-server-bash-install.git
          
   2.Chage File Permission - execute
-        
+  
+         cd Cacti-server-bash-install     
          sudo chmod a+x cactifile.sh
          
   3.Run bash file
